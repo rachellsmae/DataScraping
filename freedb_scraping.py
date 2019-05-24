@@ -7,7 +7,6 @@ import shutil
 import pickle
 import sys
 
-# basic
 import pandas as pd
 import numpy as np
 from fuzzywuzzy import fuzz
